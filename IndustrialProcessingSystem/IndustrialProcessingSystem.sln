@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndustrialProcessingSystem", "IndustrialProcessingSystem\IndustrialProcessingSystem.csproj", "{2B05E7C1-C7CD-486F-9406-AD9587B54440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPS.Tests", "IPS.Tests\IPS.Tests.csproj", "{54736879-08BD-4F50-86BF-C0B55E96CA36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B05E7C1-C7CD-486F-9406-AD9587B54440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B05E7C1-C7CD-486F-9406-AD9587B54440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B05E7C1-C7CD-486F-9406-AD9587B54440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B05E7C1-C7CD-486F-9406-AD9587B54440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54736879-08BD-4F50-86BF-C0B55E96CA36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54736879-08BD-4F50-86BF-C0B55E96CA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54736879-08BD-4F50-86BF-C0B55E96CA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54736879-08BD-4F50-86BF-C0B55E96CA36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07A7C532-4995-4734-BCC9-436944C24AC0}
+	EndGlobalSection
+EndGlobal
